@@ -1,0 +1,15 @@
+{
+  "name": "travelville",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Dist"
+  },
+  "author": "varsha",
+  "license": "ISC",
+  "homepage": "https://varshapun.github.com/TravelVille",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
